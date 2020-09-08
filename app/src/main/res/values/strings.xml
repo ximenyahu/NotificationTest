@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationTest</string>
+    <string name="show_notification1">Show notification default</string>
+    <string name="this_is_target_activity">this is target Activity</string>
+    <string name="show_notification2">Show notification importance high</string>
+    <string name="show_notification3">show large text</string>
+    <string name="show_notification4">show large picture</string>
+</resources>
